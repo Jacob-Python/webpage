@@ -36,14 +36,14 @@ body {
 	float: right;
 	position: absolute;
 	top:10px;
-	left: 400px;
+	left: 600px;
 }
 .header{
 	border-radius: 25px;
 	border: 5px solid #008CBA;
 	background-color: #070707;
 	padding: 20px;
-	width: 400px;
+	width: 500px;
 	height: 30px;
 }
 .addendum{
