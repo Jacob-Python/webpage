@@ -1,4 +1,4 @@
-#header, h1, p, .addendum{
+#header, h3, h1, p, .addendum{
 	color: #FEFEFE;
 	font-family: Arial;
 }
@@ -29,9 +29,6 @@ body {
 #header{
 	background-color: #FEFEFE;
 }
-#header-bottom{
-
-}
 .addendum{
 	font-size: 20;
 }
@@ -51,4 +48,18 @@ body {
 }
 .addendum{
 	color: #008CBA;
+}
+#bottom{
+	background-color: #FEFEFE;
+	position: absolute;
+	bottom:10px;
+	width: 1350px;
+}
+.blk{
+	font-family: Arial;
+	color: #070707;
+}
+.lnk{
+	font-family: Arial;
+	font-size: 18px;
 }
