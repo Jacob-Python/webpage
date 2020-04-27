@@ -63,3 +63,9 @@ body {
 	font-family: Arial;
 	font-size: 18px;
 }
+
+.header-logo{
+	width: 50px;
+	border: 5px solid #070707;
+	border-radius: 50%;
+}
