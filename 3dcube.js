@@ -6,10 +6,8 @@ function setup() {
 }
 
 function draw() {
-	cfrac(3)
+	cfrac(4)
 }
-
-
 
 function cfrac(i) {
 strokeWeight(5)
