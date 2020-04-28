@@ -31,6 +31,10 @@ body {
 }
 .addendum{
 	font-size: 20;
+	color: #0025ba;
+}
+.addendum:hover{
+	color: #008CBA;
 }
 #buttons{
 	float: right;
@@ -45,9 +49,6 @@ body {
 	padding: 20px;
 	width: 500px;
 	height: 30px;
-}
-.addendum{
-	color: #008CBA;
 }
 #bottom{
 	background-color: #FEFEFE;
