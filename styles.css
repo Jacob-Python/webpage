@@ -4,7 +4,7 @@
 }
 button {
 	border-radius: 10px;
-	background-color: #0025ba;
+	background-color: #708DFF;
 	border: none;
 	color: white;
 	padding: 15px 32px;
@@ -31,7 +31,7 @@ body {
 }
 .addendum{
 	font-size: 20;
-	color: #0025ba;
+	color: ##708DFF;
 }
 .addendum:hover{
 	color: #008CBA;
